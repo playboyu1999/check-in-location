@@ -1,0 +1,184 @@
+#loca{
+  position: absolute;
+width: 250px;
+height: 22px;
+left: 25px;
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 22px;
+color: #000000;
+}
+
+#showlo{
+  position: absolute;
+width: 55px;
+height: 14px;
+right: 2px;
+font-family: Righteous;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+color: #383737;
+  }
+  .row2{
+    position: absolute;
+    top: auto;
+    opacity: 1; 
+    display: block;
+    width: 100%; 
+    left: 20px; 
+    transition: all 800ms ease 0s; 
+    transform: translate3d(-1px, 0px, 0px);
+    color:#383737;
+
+  }
+  
+  #card{
+    position: absolute;
+  width: 120px;
+  height: 300px;
+  left: 5%;
+  background-color: white;
+  
+  }
+  
+  h5{
+    font-family: Righteous;
+    color: #000000;
+  }
+  p{
+    font-family: Righteous;
+    color: #000000;
+  }
+  #star11{
+    position: absolute;
+  left: 41%;
+  top:92.5%;
+  color: orange;
+  }
+  #star22{
+    position: absolute;
+  left: 51%;
+  top:92.5%;
+  color: orange;
+  }
+  #star33{
+    position: absolute;
+  left: 61%;
+  top:92.5%;
+  color: orange;
+  }
+  #star44{
+    position: absolute;
+  left: 71%;
+  top:92.5%;
+  color: orange;
+  }
+  #star55{
+    position: absolute;
+  left: 80%;
+  top:92.5%;
+  color: orange;
+  }
+  .rate1{
+    position: absolute;
+  left: 93%;
+  top: 89%;
+  color: black;
+  font-size: 24px;
+  }
+  #star01{
+    position: absolute;
+  left: 51%;
+  top:92.5%;
+  color: orange;
+  }
+  #star02{
+    position: absolute;
+  left: 61%;
+  top:92.5%;
+  color: orange;
+  }
+  #star03{
+    position: absolute;
+  left: 71%;
+  top:92.5%;
+  color: orange;
+  }
+  #star04{
+    position: absolute;
+  left: 80%;
+  top:92.5%;
+  color: orange;
+  }
+  .row3{
+    position: absolute;
+    top: 83%;
+    width: 100%;
+
+  }
+  #bigcard{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    left: 40px;
+    font-family: Righteous;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 15px;
+    color: #383737;
+    }
+    #card2{
+      position: absolute;
+    width: 1350px;
+    height: 750px;
+    left: 50px;
+    font-family: Righteous;
+    }
+    #star1{
+      position: absolute;
+    left: 65%;
+    top: 91.5%;
+    color: orange;
+    font-size: 35px;
+    }
+    #star2{
+      position: absolute;
+    left: 70%;
+    top: 91.5%;
+    color: orange;
+    font-size: 35px;
+    }
+    #star3{
+      position: absolute;
+    left: 75%;
+    top: 91.5%;
+    color: orange;
+    font-size: 35px;
+    }
+    #star4{
+      position: absolute;
+    left: 80%;
+    top: 91.5%;
+    color: orange;
+    font-size: 35px;
+    }
+    #star5{
+      position: absolute;
+    left: 85%;
+    top: 91.5%;
+    color: orange;
+    font-size: 35px;
+    }
+    .rate{
+      position: absolute;
+    left: 93%;
+    top: 89.2%;
+    color: black;
+    font-size: 50px;
+    }
+    
